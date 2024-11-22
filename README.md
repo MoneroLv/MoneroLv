@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Monero</h1>
-<h3 align="center"> I’m currently learning Java, C#, Python</h3>
+<h3 align="center"> I’m currently learning Java, C#, Python </h3>
+
 
 
 
